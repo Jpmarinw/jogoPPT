@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ifam.jogoppt"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ifam.jogoppt"
